@@ -1,3 +1,3 @@
-My first GitHub repository\n
-Just a sudoku solver\n
-using HTML,CSS and javascript\n
+My first GitHub repository  
+Just a sudoku solver  
+using HTML,CSS and javascript
